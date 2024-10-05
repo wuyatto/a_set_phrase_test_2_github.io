@@ -139,3 +139,9 @@ button:hover {
     opacity: 1;
     transition: opacity 0.2s;
 }
+
+@media (max-width: 650px) {
+    #practice-view {
+        margin: 10px 40px;
+    }
+}
